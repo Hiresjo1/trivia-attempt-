@@ -1,0 +1,30 @@
+body{
+  background-image: url("http://images4.fanpop.com/image/photos/19700000/Archer-by-Supajoe-archer-19718809-691-900.jpg");
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  font-family: cursive;
+  color: white;
+  text-shadow: 0px 1px 1px #fff;
+}
+
+#sendA {
+  border-radius: 50px;
+  color: white;
+  height: 50px;
+  width: 200px;
+}
+header {
+  height: 100%;
+  width: 100%;
+  background-color: purple;
+}
+
+form {
+  text-align: center;
+  
+}
+
+
